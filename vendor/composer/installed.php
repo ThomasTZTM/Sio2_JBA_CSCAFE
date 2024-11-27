@@ -3,7 +3,7 @@
         'name' => 'vendor_name/cafe',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'af86e07b38b81d543734d75b090e5c12ca98e958',
+        'reference' => '0e7b4724534616214b854a128823ec86d4ffef89',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -274,7 +274,7 @@
         'vendor_name/cafe' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'af86e07b38b81d543734d75b090e5c12ca98e958',
+            'reference' => '0e7b4724534616214b854a128823ec86d4ffef89',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
